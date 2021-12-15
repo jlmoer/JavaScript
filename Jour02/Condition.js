@@ -61,3 +61,13 @@ switch (month) {
     case "October":
         console.log("Fall");
 }
+
+// *** Bonus III
+
+let roundedNumber = 3.6
+if (roundedNumber - Math.floor(roundedNumber) >= 0.5){
+    console.log(Math.ceil(roundedNumber));
+} else {
+    console.log(Math.floor(roundedNumber));
+}
+

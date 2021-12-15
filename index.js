@@ -91,3 +91,4 @@ switch (firstname) {
 
 //Opérateurs, toujours mettre ===. Cela évite les bughs quand on fait une comparaison.
 //Et se dit && ou se dit ||
+
