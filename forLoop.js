@@ -40,3 +40,14 @@ console.log(sum);
 // Le console.log(box1) en dehors de la boucle affiche 42 dans la console
 // Le console.log(i) affiche 0 dans la console
 
+// 06 - Encore des boîtes
+
+// Explication des console.log qui sont dans la boucle
+// console.log(box1 + i) affiche -1 dans la console
+// console.log(box2 + i) affiche 2 dans la console
+
+// Explication des console.log qui sont à l'extérieur de la boucle
+// console.log(box1) affiche -3 dans la console
+// console.log(box2) affiche 0 dans la console
+// console.log(i) affiche -3 dans la console
+
