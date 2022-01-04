@@ -19,16 +19,20 @@
 
 // 03 - Course
 
-let usainBolt = 0;
-let tysonGay = 0;
-while (usainBolt <= 100 && tysonGay <= 100) {
-    let random1 = Math.floor(Math.random() * (10 - 1 + 1) + 1);
-    let random2 = Math.floor(Math.random() * (10 - 1 + 1) + 1);
-    usainBolt += random1;
-    tysonGay += random2;
-} 
-if (usainBolt >= 100) {
-    console.log(`Usain Bolt wins with ${usainBolt}`);
-} else {
-    console.log(`Tyson Gay wins with ${tysonGay}`);
-}
+// let usainBolt = 0;
+// let tysonGay = 0;
+// while (usainBolt <= 100 && tysonGay <= 100) {
+//     let random1 = Math.floor(Math.random() * (10 - 1 + 1) + 1);
+//     let random2 = Math.floor(Math.random() * (10 - 1 + 1) + 1);
+//     usainBolt += random1;
+//     tysonGay += random2;
+// } 
+// if (usainBolt >= 100) {
+//     console.log(`Usain Bolt wins with ${usainBolt}`);
+// } else {
+//     console.log(`Tyson Gay wins with ${tysonGay}`);
+// }
+
+// 04 - Des boîtes
+
+
