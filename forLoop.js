@@ -8,10 +8,11 @@ console.log(result);
 
 // 02 - Comptons
 
-let multiples = 0;
+let count = 0;
 for (let i = 100; i <= 1000; i++) {
     if (i % 7 === 0) {
-        multiples++;
+        count++;
+        // count += 1;
     }
 }
 console.log(multiples);
